@@ -1,6 +1,6 @@
 # HoriseonRefactor
 
-##Contributors - Garrett Griffey
+##Contributors - Garrett Griffey https://garrettwgriffey.github.io/
 
 ###Technology Stack - HTML, CSS
 
